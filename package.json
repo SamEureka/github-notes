@@ -1,0 +1,19 @@
+{
+  "name": "github-notes",
+  "version": "1.0.0",
+  "description": "github note taker app, based on React.js tutorial from egghead.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamEureka/github-notes.git"
+  },
+  "author": "SamEureka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamEureka/github-notes/issues"
+  },
+  "homepage": "https://github.com/SamEureka/github-notes#readme"
+}
