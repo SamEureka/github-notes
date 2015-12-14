@@ -1,4 +1,4 @@
-### github-notes
+# NOPE
 ####React.js tutorial from egghead.io
 
 Install stuff >
